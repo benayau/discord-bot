@@ -1,0 +1,22 @@
+{
+  "594877695372820506": {
+    "prefix": "a",
+    "delete": "true",
+    "deleteTime": 10000,
+    "volume": 100,
+    "maxVolume": 200,
+    "djonly": false,
+    "djroles": [],
+    "levelup": false
+  },
+  "546554559057887233": {
+    "prefix": "a",
+    "delete": "true",
+    "deleteTime": 10000,
+    "volume": 100,
+    "maxVolume": 200,
+    "djonly": false,
+    "djroles": [],
+    "levelup": false
+  }
+}

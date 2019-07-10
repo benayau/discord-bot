@@ -1,0 +1,32 @@
+{
+  "0": {
+    "name": ":popcorn: normal popcorn", 
+    "description": "good popcorn",
+    "price": "900"
+  },
+  "1": {
+    "name": ":popcorn: big popcorn", 
+    "description": "Sweet popcorn for movie",
+    "price": "1000"
+  },
+  "2": {
+    "name": ":icecream: icecream", 
+    "description": "He protec",
+    "price": "350"
+  },
+  "3": {
+    "name": ":tropical_drink: tropical", 
+    "description": "He protec too",
+    "price": "650"
+  },
+  "4": {
+    "name": ":beers:  beers", 
+    "description": "Heal yourself",
+    "price": "75"
+  },
+  "5": {
+    "name": ":beer: beer", 
+    "description": "beer PoWeR-R-R!!",
+    "price": "50"
+  }
+}

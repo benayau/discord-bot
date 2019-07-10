@@ -1,0 +1,62 @@
+{
+  "name": "expo-bot",
+  "version": "1.6.0",
+  "description": "Just an another perfect discord.js bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bot-utils": "^1.2.1",
+    "canvas": "^1.6.12",
+    "currency-formatter": "^1.5.2",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "express": "^4.16.4",
+    "figlet": "^1.2.0",
+    "fortnite": "^4.1.1",
+    "jimp": "^0.5.3",
+    "mathjs": "^5.1.2",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.21",
+    "node-opus": "^0.3.0",
+    "parse-ms": "^2.0.0",
+    "querystring": "^0.2.0",
+    "quick.db": "^6.3.2",
+    "randomcolor": "^0.5.3",
+    "request-promise-native": "^1.0.5",
+    "snekfetch": "^4.0.4",
+    "weather-js": "^2.0.0",
+    "yt-search": "^0.2.0",
+    "ytdl": "^0.10.3",
+    "google-tts-api": "^0.0.3",
+    "google-translate-api": "^2.3.0",
+    "urban-dictionary": "^2.2.1",
+    "cpu-stat": "^2.0.1",
+    "os": "^0.1.1",
+    "moment-duration-format": "^2.2.2",
+    "speech-to-text": "^0.7.4",
+    "btoa": "^1.2.1",
+    "node-fetch": "^2.3.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "dblapi.js": "^2.3.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/expo-bot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "discord",
+    "discord.js",
+    "jarvis",
+    "expo",
+    "bot"
+  ]
+}

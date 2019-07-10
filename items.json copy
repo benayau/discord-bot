@@ -1,0 +1,37 @@
+{
+  "0": {
+    "name": ":popcorn: normal popcorn", 
+    "description": "KILL MASHINE",
+    "price": "1000"
+  },
+    "1": {
+    "name": ":popcorn: big popcorn, 
+    "description": "KILL MASHINE",
+    "price": "2000"
+  },
+  "2": {
+    "name": ":icecream: icecream", 
+    "description": "Sweet knife for killing people",
+    "price": "400"
+  },
+  "3": {
+    "name": ":tropical_drink: tropical", 
+    "description": "He protec",
+    "price": "350"
+  },
+  "4": {
+    "name": ":beers:  beers", 
+    "description": "He protec too",
+    "price": "650"
+  },
+  "5": {
+    "name": ":beer: beer", 
+    "description": "Heal yourself",
+    "price": "75"
+  },
+  "6": {
+    "name": ":wine_glass: wine", 
+    "description": "Cookiezi PoWeR-R-R!!",
+    "price": "50"
+  }
+}
